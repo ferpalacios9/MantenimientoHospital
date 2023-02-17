@@ -1,0 +1,144 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{C4815354-694D-478B-978D-E4C1C5B55D56}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>MantenimientoHospital</RootNamespace>
+    <AssemblyName>MantenimientoHospital</AssemblyName>
+    <TargetFrameworkVersion>v4.8</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="AltaEmpleadoForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AltaEmpleadoForm.Designer.cs">
+      <DependentUpon>AltaEmpleadoForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="AltaEquipoForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AltaEquipoForm.Designer.cs">
+      <DependentUpon>AltaEquipoForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="AyudaForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AyudaForm.Designer.cs">
+      <DependentUpon>AyudaForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GestionMantenimientoForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GestionMantenimientoForm.Designer.cs">
+      <DependentUpon>GestionMantenimientoForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="HistorialEquipoForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="HistorialEquipoForm.Designer.cs">
+      <DependentUpon>HistorialEquipoForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="InicioForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="InicioForm.Designer.cs">
+      <DependentUpon>InicioForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MantenimientoHospitalDataSet.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>MantenimientoHospitalDataSet.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="AltaEmpleadoForm.resx">
+      <DependentUpon>AltaEmpleadoForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AltaEquipoForm.resx">
+      <DependentUpon>AltaEquipoForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AyudaForm.resx">
+      <DependentUpon>AyudaForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GestionMantenimientoForm.resx">
+      <DependentUpon>GestionMantenimientoForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="HistorialEquipoForm.resx">
+      <DependentUpon>HistorialEquipoForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="InicioForm.resx">
+      <DependentUpon>InicioForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <None Include="MantenimientoHospitalDataSet.xsc">
+      <DependentUpon>MantenimientoHospitalDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="MantenimientoHospitalDataSet.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>MantenimientoHospitalDataSet.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="MantenimientoHospitalDataSet.xss">
+      <DependentUpon>MantenimientoHospitalDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

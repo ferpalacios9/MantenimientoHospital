@@ -1,0 +1,32 @@
+D:\Proyectos Visual Studio\MantenimientoHospital\MantenimientoHospital\bin\Debug\MantenimientoHospital.exe.config
+D:\Proyectos Visual Studio\MantenimientoHospital\MantenimientoHospital\bin\Debug\MantenimientoHospital.exe
+D:\Proyectos Visual Studio\MantenimientoHospital\MantenimientoHospital\bin\Debug\MantenimientoHospital.pdb
+D:\Proyectos Visual Studio\MantenimientoHospital\MantenimientoHospital\obj\Debug\MantenimientoHospital.csproj.AssemblyReference.cache
+D:\Proyectos Visual Studio\MantenimientoHospital\MantenimientoHospital\obj\Debug\MantenimientoHospital.csproj.SuggestedBindingRedirects.cache
+D:\Proyectos Visual Studio\MantenimientoHospital\MantenimientoHospital\obj\Debug\MantenimientoHospital.Properties.Resources.resources
+D:\Proyectos Visual Studio\MantenimientoHospital\MantenimientoHospital\obj\Debug\MantenimientoHospital.csproj.GenerateResource.cache
+D:\Proyectos Visual Studio\MantenimientoHospital\MantenimientoHospital\obj\Debug\MantenimientoHospital.csproj.CoreCompileInputs.cache
+D:\Proyectos Visual Studio\MantenimientoHospital\MantenimientoHospital\obj\Debug\MantenimientoHospital.exe
+D:\Proyectos Visual Studio\MantenimientoHospital\MantenimientoHospital\obj\Debug\MantenimientoHospital.pdb
+D:\Proyectos Visual Studio\MantenimientoHospital\MantenimientoHospital\obj\Debug\MantenimientoHospital.AltaEmpleadoForm.resources
+D:\Proyectos Visual Studio\MantenimientoHospital\MantenimientoHospital\obj\Debug\MantenimientoHospital.AltaEquipoForm.resources
+D:\Proyectos Visual Studio\MantenimientoHospital\MantenimientoHospital\obj\Debug\MantenimientoHospital.GestionMantenimientoForm.resources
+D:\Proyectos Visual Studio\MantenimientoHospital\MantenimientoHospital\obj\Debug\MantenimientoHospital.InicioForm.resources
+D:\Proyectos Visual Studio\MantenimientoHospital\MantenimientoHospital\obj\Debug\MantenimientoHospital.AyudaForm.resources
+D:\Proyectos Visual Studio\MantenimientoHospital\MantenimientoHospital\obj\Debug\MantenimientoHospital.HistorialEquipoForm.resources
+C:\Users\ferna\OneDrive\Desktop\MantenimientoHospital-20230217T023013Z-001\MantenimientoHospital\MantenimientoHospital\bin\Debug\MantenimientoHospital.exe.config
+C:\Users\ferna\OneDrive\Desktop\MantenimientoHospital-20230217T023013Z-001\MantenimientoHospital\MantenimientoHospital\bin\Debug\MantenimientoHospital.exe
+C:\Users\ferna\OneDrive\Desktop\MantenimientoHospital-20230217T023013Z-001\MantenimientoHospital\MantenimientoHospital\bin\Debug\MantenimientoHospital.pdb
+C:\Users\ferna\OneDrive\Desktop\MantenimientoHospital-20230217T023013Z-001\MantenimientoHospital\MantenimientoHospital\obj\Debug\MantenimientoHospital.csproj.AssemblyReference.cache
+C:\Users\ferna\OneDrive\Desktop\MantenimientoHospital-20230217T023013Z-001\MantenimientoHospital\MantenimientoHospital\obj\Debug\MantenimientoHospital.csproj.SuggestedBindingRedirects.cache
+C:\Users\ferna\OneDrive\Desktop\MantenimientoHospital-20230217T023013Z-001\MantenimientoHospital\MantenimientoHospital\obj\Debug\MantenimientoHospital.AltaEmpleadoForm.resources
+C:\Users\ferna\OneDrive\Desktop\MantenimientoHospital-20230217T023013Z-001\MantenimientoHospital\MantenimientoHospital\obj\Debug\MantenimientoHospital.AltaEquipoForm.resources
+C:\Users\ferna\OneDrive\Desktop\MantenimientoHospital-20230217T023013Z-001\MantenimientoHospital\MantenimientoHospital\obj\Debug\MantenimientoHospital.AyudaForm.resources
+C:\Users\ferna\OneDrive\Desktop\MantenimientoHospital-20230217T023013Z-001\MantenimientoHospital\MantenimientoHospital\obj\Debug\MantenimientoHospital.GestionMantenimientoForm.resources
+C:\Users\ferna\OneDrive\Desktop\MantenimientoHospital-20230217T023013Z-001\MantenimientoHospital\MantenimientoHospital\obj\Debug\MantenimientoHospital.HistorialEquipoForm.resources
+C:\Users\ferna\OneDrive\Desktop\MantenimientoHospital-20230217T023013Z-001\MantenimientoHospital\MantenimientoHospital\obj\Debug\MantenimientoHospital.InicioForm.resources
+C:\Users\ferna\OneDrive\Desktop\MantenimientoHospital-20230217T023013Z-001\MantenimientoHospital\MantenimientoHospital\obj\Debug\MantenimientoHospital.Properties.Resources.resources
+C:\Users\ferna\OneDrive\Desktop\MantenimientoHospital-20230217T023013Z-001\MantenimientoHospital\MantenimientoHospital\obj\Debug\MantenimientoHospital.csproj.GenerateResource.cache
+C:\Users\ferna\OneDrive\Desktop\MantenimientoHospital-20230217T023013Z-001\MantenimientoHospital\MantenimientoHospital\obj\Debug\MantenimientoHospital.csproj.CoreCompileInputs.cache
+C:\Users\ferna\OneDrive\Desktop\MantenimientoHospital-20230217T023013Z-001\MantenimientoHospital\MantenimientoHospital\obj\Debug\MantenimientoHospital.exe
+C:\Users\ferna\OneDrive\Desktop\MantenimientoHospital-20230217T023013Z-001\MantenimientoHospital\MantenimientoHospital\obj\Debug\MantenimientoHospital.pdb
